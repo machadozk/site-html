@@ -1,0 +1,18 @@
+h1{
+    font-family: Verdana;
+    font-style: italic;
+    text-align: center;
+    color: black;
+}
+
+p, li, h2, h3, a{
+    font-family: Verdana;
+}
+
+/* migrei o style do div curso para o CSS; padding é o espaco entre o conteudo e a borda */
+#curso{
+    background-color:aliceblue; 
+    text-align: justify;
+    padding:10px; 
+    border: 1px solid black;
+}
